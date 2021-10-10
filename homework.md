@@ -30,7 +30,7 @@ The file should be sent in the `.pdf` format created via $$\LaTeX$$ or [typora](
 import numpy as np
 
 n = 10
-A = np.random.rand((n,n))
+A = np.random.rand(n,n)
 b = np.random.rand(n)
 c = np.random.rand(n)
 
