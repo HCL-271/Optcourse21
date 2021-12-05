@@ -356,7 +356,7 @@ The file should be sent in the `.pdf` format created via $$\LaTeX$$ or [typora](
 	* $$y_2$$ = number of phone covers produced over the week,  
 	* $$y_3$$ = number of laptop covers produced over the week.  
 
-	Find the solution to the problem using `PyOMO.` Take a look at the example , described in the class [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/8_01.ipynb){: .btn}.
+	Find the solution to the problem using `PyOMO.` Take a look at the example, described in the class [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/8_01.ipynb){: .btn}.
 
 	```python
 	!pip install pyomo --quiet
